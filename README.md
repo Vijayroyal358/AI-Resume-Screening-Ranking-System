@@ -1,4 +1,3 @@
-Here is the README content formatted as code:  
 
 ```markdown
 # AI Resume Screening & Candidate Ranking System  
@@ -17,9 +16,9 @@ This project is a **Streamlit-based web application** that ranks resumes based o
 AI-Resume-Screening-Ranking-System/
 │── Example Resumes/         # Folder containing sample resumes (PDFs)
 │── app.py                   # Main Streamlit application file
-│── resume_ranking.ipynb      # Jupyter Notebook for development/testing
-│── requirements.txt          # Required Python dependencies
-│── README.md                 # Project documentation (this file)
+│── resume_ranking.ipynb     # Jupyter Notebook for development/testing
+│── requirements.txt         # Required Python dependencies
+│── README.md                # Project documentation (this file)
 ```
 
 ## 🛠️ Installation  
@@ -67,4 +66,27 @@ scikit-learn
 ## 🌐 Deployment  
 The app is deployed on Streamlit:  
 🔗 [Live App](https://ai-resume-screening-ranking-system-ezckk6dgemrjctsegmx29x.streamlit.app/)  
+
+---
+
+## 🤝 Contributing  
+Contributions are welcome! If you'd like to contribute, please follow these steps:  
+1. Fork the repository.  
+2. Create a new branch (`git checkout -b feature/YourFeatureName`).  
+3. Commit your changes (`git commit -m 'Add some feature'`).  
+4. Push to the branch (`git push origin feature/YourFeatureName`).  
+5. Open a pull request.  
+
+## 📄 License  
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
+
+## 🙏 Acknowledgments  
+- **Streamlit** for providing an easy-to-use framework for building web applications.  
+- **PyPDF2** for PDF text extraction.  
+- **scikit-learn** for TF-IDF Vectorization and Cosine Similarity calculations.  
+
+## 📧 Contact  
+For questions or feedback, feel free to reach out:  
+- **Email**: vijayroyal358@gmail.com  
+- **GitHub**: [Vijayroyal358](https://github.com/Vijayroyal358)  
 ```
