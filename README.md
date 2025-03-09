@@ -1,5 +1,4 @@
 
-```markdown
 # AI Resume Screening & Candidate Ranking System  
 
 This project is a **Streamlit-based web application** that ranks resumes based on their relevance to a given job description using **TF-IDF and Cosine Similarity**.  
