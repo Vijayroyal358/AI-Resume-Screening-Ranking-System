@@ -68,6 +68,26 @@ The app is deployed on Streamlit:
 
 ---
 
+## 👥 Target Audience  
+This system is designed to assist:  
+- **HR Professionals & Recruiters**: Streamline the resume screening process and reduce manual effort.  
+- **Hiring Managers**: Quickly identify top candidates for job roles.  
+- **Job Portals**: Improve the accuracy of resume-to-job matching.  
+- **AI Enthusiasts & Students**: Explore NLP-based text analysis and ranking techniques.  
+
+## 🚀 Future Enhancements  
+The project can be extended with the following advanced features:  
+- **AI-Driven Scoring**: Implement machine learning or deep learning models for more accurate ranking.  
+- **Advanced NLP Integration**: Use transformer-based models like BERT or GPT for semantic understanding.  
+- **Multi-Format Support**: Add compatibility for DOCX, TXT, and image-based resumes using OCR.  
+- **Skill Extraction**: Automatically detect and match skills from resumes to job descriptions.  
+- **API Integration**: Enable seamless integration with job portals and HR management systems.  
+
+## 🏁 Final Thoughts  
+The **AI Resume Screening & Ranking System** is a powerful tool designed to address the inefficiencies of manual resume screening. By leveraging **TF-IDF** and **Cosine Similarity**, the system automates the ranking process, ensuring faster, objective, and accurate candidate shortlisting. With features like PDF text extraction, real-time ranking, and easy deployment via Streamlit, this project offers a scalable and user-friendly solution for recruiters, hiring managers, and job portals.  
+
+---
+
 ## 🤝 Contributing  
 Contributions are welcome! If you'd like to contribute, please follow these steps:  
 1. Fork the repository.  
@@ -89,3 +109,4 @@ For questions or feedback, feel free to reach out:
 - **Email**: vijayroyal358@gmail.com  
 - **GitHub**: [Vijayroyal358](https://github.com/Vijayroyal358)  
 ```
+
